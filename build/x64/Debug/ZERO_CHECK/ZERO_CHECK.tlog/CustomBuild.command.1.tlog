@@ -1,0 +1,10 @@
+^C:\USERS\KDFX MODES\DOCUMENTS\ШАРАГА\CPP\GAMEENGINECPP\BUILD\CMAKEFILES\81D38887DD8CF34DDB37AA13C5B27A8E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/KDFX Modes/Documents/Шарага/cpp/gameenginecpp" "-BC:/Users/KDFX Modes/Documents/Шарага/cpp/gameenginecpp/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/KDFX Modes/Documents/Шарага/cpp/gameenginecpp/build/GAMEENGINE.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
