@@ -264,6 +264,15 @@ GAMEENGINE_IS_TOP_LEVEL:STATIC=ON
 GAMEENGINE_SOURCE_DIR:STATIC=C:/Users/KDFX Modes/Documents/Шарага/cpp/gameenginecpp
 
 //Value Computed by CMake
+GLAD_BINARY_DIR:STATIC=C:/Users/KDFX Modes/Documents/Шарага/cpp/gameenginecpp/build/external/glad
+
+//Value Computed by CMake
+GLAD_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+GLAD_SOURCE_DIR:STATIC=C:/Users/KDFX Modes/Documents/Шарага/cpp/gameenginecpp/external/glad
+
+//Value Computed by CMake
 GLFW_BINARY_DIR:STATIC=C:/Users/KDFX Modes/Documents/Шарага/cpp/gameenginecpp/build/external/glfw
 
 //Build the GLFW documentation
@@ -420,7 +429,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MT
 CMAKE_MT-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=4
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=5
 //Platform information initialized
 CMAKE_PLATFORM_INFO_INITIALIZED:INTERNAL=1
 //noop for ranlib

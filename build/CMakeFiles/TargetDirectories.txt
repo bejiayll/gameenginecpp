@@ -9,3 +9,6 @@ C:/Users/KDFX Modes/Documents/Шарага/cpp/gameenginecpp/build/external/glfw
 C:/Users/KDFX Modes/Documents/Шарага/cpp/gameenginecpp/build/external/glfw/src/CMakeFiles/update_mappings.dir
 C:/Users/KDFX Modes/Documents/Шарага/cpp/gameenginecpp/build/external/glfw/src/CMakeFiles/INSTALL.dir
 C:/Users/KDFX Modes/Documents/Шарага/cpp/gameenginecpp/build/external/glfw/docs/CMakeFiles/INSTALL.dir
+C:/Users/KDFX Modes/Documents/Шарага/cpp/gameenginecpp/build/external/glad/CMakeFiles/glad.dir
+C:/Users/KDFX Modes/Documents/Шарага/cpp/gameenginecpp/build/external/glad/CMakeFiles/INSTALL.dir
+C:/Users/KDFX Modes/Documents/Шарага/cpp/gameenginecpp/build/external/glad/CMakeFiles/ALL_BUILD.dir
